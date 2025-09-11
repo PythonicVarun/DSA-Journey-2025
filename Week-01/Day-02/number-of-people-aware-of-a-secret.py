@@ -6,6 +6,7 @@ Time taken: ~3 minutes
 Link: https://leetcode.com/problems/number-of-people-aware-of-a-secret/
 """
 
+
 class Solution:
     def peopleAwareOfSecret(self, n: int, delay: int, forget: int) -> int:
         aware, spread, res = [0] * n, 0, 1

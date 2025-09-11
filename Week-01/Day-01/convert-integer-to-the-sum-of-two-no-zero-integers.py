@@ -8,6 +8,7 @@ Link: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-in
 
 from typing import List
 
+
 class Solution:
     def getNoZeroIntegers(self, n: int) -> List[int]:
         check = lambda x: "0" not in str(x)

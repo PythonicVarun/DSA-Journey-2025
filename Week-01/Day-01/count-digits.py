@@ -8,6 +8,7 @@ Link: https://geeksforgeeks.org/problems/count-digits-1606889545/1
 
 import math
 
+
 class Solution:
     def countDigits(self, n):
         # code here
