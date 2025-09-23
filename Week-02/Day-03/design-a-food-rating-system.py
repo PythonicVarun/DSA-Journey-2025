@@ -1,6 +1,6 @@
 """
 Problem: Design a Food Rating System
-Date: 17-09-2024
+Date: 17-09-2025
 Difficulty: Medium
 Time taken: ~15 minutes
 Link: https://leetcode.com/problems/design-a-food-rating-system/

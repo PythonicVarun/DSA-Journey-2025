@@ -1,6 +1,6 @@
 """
 Problem: Minimum Number of People to Teach
-Date: 10-09-2024
+Date: 10-09-2025
 Difficulty: Medium
 Time taken: ~10 minutes
 Link: https://leetcode.com/problems/minimum-number-of-people-to-teach/

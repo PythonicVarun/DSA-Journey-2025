@@ -1,6 +1,6 @@
 """
 Problem: Quick Sort
-Date: 12-09-2024
+Date: 12-09-2025
 Difficulty: Easy
 Time taken: ~2 minutes
 Link: https://geeksforgeeks.org/problems/quick-sort/1

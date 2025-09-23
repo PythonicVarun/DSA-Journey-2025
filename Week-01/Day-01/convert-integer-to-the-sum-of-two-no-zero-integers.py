@@ -1,6 +1,6 @@
 """
 Problem: Convert Integer to the Sum of Two No-Zero Integers
-Date: 08-09-2024
+Date: 08-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/

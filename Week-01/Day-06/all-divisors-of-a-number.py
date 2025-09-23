@@ -1,6 +1,6 @@
 """
 Problem: All divisors of a Number
-Date: 13-09-2024
+Date: 13-09-2025
 Difficulty: Easy
 Time taken: ~5 minutes
 Link: https://geeksforgeeks.org/problems/all-divisors-of-a-number/1

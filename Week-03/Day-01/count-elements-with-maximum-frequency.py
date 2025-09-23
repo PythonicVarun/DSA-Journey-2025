@@ -1,6 +1,6 @@
 """
 Problem: Count Elements With Maximum Frequency
-Date: 22-09-2024
+Date: 22-09-2025
 Difficulty: Easy
 Time taken: ~2 minutes
 Link: https://leetcode.com/problems/count-elements-with-maximum-frequency/

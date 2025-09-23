@@ -1,6 +1,6 @@
 """
 Problem: Number of People Aware of a Secret
-Date: 09-09-2024
+Date: 09-09-2025
 Difficulty: Medium
 Time taken: ~3 minutes
 Link: https://leetcode.com/problems/number-of-people-aware-of-a-secret/

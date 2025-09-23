@@ -1,6 +1,6 @@
 """
 Problem: Selection Sort
-Date: 09-09-2024
+Date: 09-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://geeksforgeeks.org/problems/selection-sort/1

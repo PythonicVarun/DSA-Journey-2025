@@ -1,6 +1,6 @@
 """
 Problem: Bubble Sort
-Date: 08-09-2024
+Date: 08-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://geeksforgeeks.org/problems/bubble-sort/1

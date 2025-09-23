@@ -1,6 +1,6 @@
 """
 Problem: Merge Sort
-Date: 11-09-2024
+Date: 11-09-2025
 Difficulty: Easy
 Time taken: ~7 minutes
 Link: https://geeksforgeeks.org/problems/merge-sort/1

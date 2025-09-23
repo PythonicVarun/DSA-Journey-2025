@@ -1,6 +1,6 @@
 """
 Problem: Maximum Number of Words You Can Type
-Date: 15-09-2024
+Date: 15-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/maximum-number-of-words-you-can-type/

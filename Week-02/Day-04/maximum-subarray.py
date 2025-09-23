@@ -1,6 +1,6 @@
 """
 Problem: Maximum Subarray
-Date: 18-09-2024
+Date: 18-09-2025
 Difficulty: Medium
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/maximum-subarray/

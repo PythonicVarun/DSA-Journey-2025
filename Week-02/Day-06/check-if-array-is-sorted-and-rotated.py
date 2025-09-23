@@ -1,6 +1,6 @@
 """
 Problem: Check if Array Is Sorted and Rotated
-Date: 20-09-2024
+Date: 20-09-2025
 Difficulty: Medium
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/

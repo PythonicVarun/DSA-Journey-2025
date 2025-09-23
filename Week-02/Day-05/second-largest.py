@@ -1,6 +1,6 @@
 """
 Problem: Second Largest
-Date: 19-09-2024
+Date: 19-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://geeksforgeeks.org/problems/second-largest3735/1

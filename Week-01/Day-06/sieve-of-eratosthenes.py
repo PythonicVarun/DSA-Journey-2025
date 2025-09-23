@@ -1,6 +1,6 @@
 """
 Problem: Sieve of Eratosthenes
-Date: 13-09-2024
+Date: 13-09-2025
 Difficulty: Medium
 Time taken: ~2 minutes
 Link: https://geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1

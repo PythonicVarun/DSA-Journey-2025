@@ -1,6 +1,6 @@
 """
 Problem: Best Time to Buy and Sell Stock
-Date: 19-09-2024
+Date: 19-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/

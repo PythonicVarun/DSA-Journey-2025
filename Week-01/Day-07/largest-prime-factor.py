@@ -1,6 +1,6 @@
 """
 Problem: Largest prime factor
-Date: 14-09-2024
+Date: 14-09-2025
 Difficulty: Medium
 Time taken: ~2 minutes
 Link: https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1

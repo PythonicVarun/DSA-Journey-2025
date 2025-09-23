@@ -1,6 +1,6 @@
 """
 Problem: Count Digits
-Date: 08-09-2024
+Date: 08-09-2025
 Difficulty: Easy
 Time taken: ~30 seconds
 Link: https://geeksforgeeks.org/problems/count-digits-1606889545/1

@@ -1,6 +1,6 @@
 """
 Problem: Vowels Game in a String
-Date: 12-09-2024
+Date: 12-09-2025
 Difficulty: Medium
 Time taken: ~15 minutes
 Link: https://leetcode.com/problems/vowels-game-in-a-string/

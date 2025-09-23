@@ -1,6 +1,6 @@
 """
 Problem: Vowel Spellchecker
-Date: 14-09-2024
+Date: 14-09-2025
 Difficulty: Medium
 Time taken: ~5 minutes
 Link: https://leetcode.com/problems/vowel-spellchecker/

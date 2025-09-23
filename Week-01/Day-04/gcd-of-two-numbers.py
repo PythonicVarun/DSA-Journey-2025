@@ -1,6 +1,6 @@
 """
 Problem: GCD of two numbers
-Date: 11-09-2024
+Date: 11-09-2025
 Difficulty: Easy
 Time taken: ~30 seconds
 Link: https://geeksforgeeks.org/problems/gcd-of-two-numbers3459/1

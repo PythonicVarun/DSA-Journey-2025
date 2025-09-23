@@ -1,6 +1,6 @@
 """
 Problem: Palindrome Number
-Date: 10-09-2024
+Date: 10-09-2025
 Difficulty: Easy
 Time taken: ~30 seconds
 Link: https://leetcode.com/problems/palindrome-number/

@@ -1,6 +1,6 @@
 """
 Problem: Check if All A's Appears Before All B's
-Date: 21-09-2024
+Date: 21-09-2025
 Difficulty: Easy
 Time taken: ~30 seconds
 Link: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/

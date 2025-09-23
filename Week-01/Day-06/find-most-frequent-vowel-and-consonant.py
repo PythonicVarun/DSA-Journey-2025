@@ -1,6 +1,6 @@
 """
 Problem: Find Most Frequent Vowel and Consonant
-Date: 13-09-2024
+Date: 13-09-2025
 Difficulty: Easy
 Time taken: ~1 minute
 Link: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/

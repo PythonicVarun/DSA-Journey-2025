@@ -1,6 +1,6 @@
 """
 Problem: Armstrong Numbers
-Date: 12-09-2024
+Date: 12-09-2025
 Difficulty: Easy
 Time taken: ~30 seconds
 Link: https://geeksforgeeks.org/problems/armstrong-numbers2727/1
